@@ -1,0 +1,9 @@
+title: CHICKAAAAN
+originalAuthor: Flowleyd
+description: Chicke-eeeen.... - Tippy 2026
+
+assets:
+- name: voice\us\battle\chicken_little.win32.scd
+  method: copy
+  source:
+  - name: tippychicken.scd
