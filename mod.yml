@@ -3,7 +3,7 @@ originalAuthor: Flowleyd
 description: Chicke-eeeen.... - Tippy 2026
 
 assets:
-- name: voice\us\battle\chicken_little.win32.scd
+- name: remastered\obj\P_EX350.a.us\voice\battle\us\chicken_little
   method: copy
   source:
-  - name: tippychicken.scd
+  - name: chicken_little
